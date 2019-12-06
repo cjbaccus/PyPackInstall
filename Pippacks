@@ -2,3 +2,5 @@ paramiko
 xlsxwriter
 netmiko
 pandas
+beautifulsoup
+bs4
