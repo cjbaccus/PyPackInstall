@@ -5,7 +5,7 @@ import glob
 
 # global variables
 
-packfile = "/home/cjbaccus/Code/python/PyPackinstall/packages2install"
+packfile = "/home/cjbaccus/Code/python/PyPackInstall/packages2install"
 
 allfiles = open(packfile, "r")
 
