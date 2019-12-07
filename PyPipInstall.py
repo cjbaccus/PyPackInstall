@@ -5,7 +5,7 @@ import glob
 
 # global variables
 
-pipfile = "/home/cjbaccus/Code/python/PyPackinstall/Pippacks"
+pipfile = "/home/cjbaccus/Code/python/PyPackInstall/Pippacks"
 
 allfiles = open(pipfile, "r")
 
